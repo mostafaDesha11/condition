@@ -20,7 +20,8 @@ fun main(args: Array<String>) {
     var obj2=person("mostafa")
     if(obj1===obj2)println("equal") else println("notEquals")
 
-
+//new line i added hhhhh hhhh hhh 
+//i kill u 
 
 }
 class person(var name:String)
